@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "img": "backpackbag.jpg",
+        "name": "Backpack Bag"
+    },
+    {
+        "id": 2,
+        "img": "biscuit.png",
+        "name": "Biscuit"
+    },
+    {
+        "id": 3,
+        "img": "bottle.jpg",
+        "name": "Bottle"
+    },
+    {
+        "id": 4,
+        "img": "bread.jpg",
+        "name": "Bread"
+    },
+    {
+        "id": 5,
+        "img": "desktop.jpg",
+        "name": "Desktop"
+    },
+    {
+        "id": 6,
+        "img": "laptop.jpg",
+        "name": "Laptop"
+    },
+    {
+        "id": 7,
+        "img": "laptopbag.jpg",
+        "name": "Laptop Bag"
+    },
+    {
+        "id": 8,
+        "img": "mobilephone.jpg",
+        "name": "Mobile Phone"
+    },
+    {
+        "id": 9,
+        "img": "shampoo.jpg",
+        "name": "Shampoo"
+    },
+    {
+        "id": 10,
+        "img": "telephone.jpeg",
+        "name": "Telephone"
+    },
+    {
+        "id": 11,
+        "img": "travellingbag.jpg",
+        "name": "Travelling Bag"
+    }
+]
